@@ -1,4 +1,0 @@
-oarm#Mijzelf#mz#rsync://zyxel.diskstation.eu/Users/Mijzelf/FFP/packages/0.7/oabi/
-oarm#Uli#uli#rsync://funplug.wolf-u.li/0.7/oabi/packages/
-arm#Mijzelf#mz#rsync://zyxel.diskstation.eu/Users/Mijzelf/FFP/packages/0.7/arm/
-arm#Uli#uli#rsync://funplug.wolf-u.li/0.7/arm/packages/
